@@ -1,0 +1,27 @@
+#wrapper {
+	height: 100%;
+}
+#footer {
+	height: 70px;
+}
+#logo a {
+	visibility: hidden;
+	behavior: url(css/iepngfix.htc);
+	cursor: pointer;
+}
+.system_messages li {
+	height: 1px;
+	
+}
+.ico, .button_ico  {
+	behavior: url(css/iepngfix.htc);
+}
+.button2 em {
+	height: 1px;
+}
+#admin_details {
+	height: 70px;	
+}
+body {
+	behavior: url(css/csshover.htc);
+}
